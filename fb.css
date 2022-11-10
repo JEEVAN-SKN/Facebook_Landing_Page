@@ -1,0 +1,194 @@
+body{
+    margin:0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.header{
+    width:100%;
+    height: 85px;
+    background-color: #3b5998; 
+}
+.logo{
+    width:45%;
+    padding-top: 30px;
+    float: left;
+    
+    
+}
+.logo_text{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left:100px;
+    
+}
+.login{
+    width:50%;
+    float: left;
+}
+.login_controls{
+    margin-left: 200px;
+    margin-top: 15px;
+
+}
+.login_label{
+    font-size: 14px;
+    color: #fff;
+    
+}
+.subbut{
+    background-color: #4267b2;
+    border-color: #223d79;
+    border-style:double;
+    color:#fff;
+    height:20px
+}
+.subbut:hover{
+    cursor:pointer;
+    background:#3b5998;
+
+
+}   
+.forgotten{
+    color: rgb(148, 148, 199);
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.left{
+    width: 43%;
+    float: left;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.right{
+    width: 39%;
+    margin-left: 50px;
+    float: left;
+    
+}
+.content{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 600px;
+}
+.para{
+    font-weight: bold;
+    font-size: 25px;
+    color: #223b70; 
+}
+.img{
+    width: 520px;
+    height: 350px;
+    
+}
+#ryth1{
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top:15px;
+
+    
+    
+}
+#rytp{
+    font-size: x-large;
+    margin-top: 10px;
+
+    
+}
+.questn{
+font-size: 24px;
+
+    
+}
+#slstp{
+    margin-top: 0px;
+    margin-bottom:0px;
+    font-size: smaller;
+    font-weight: lighter;
+    color: grey;
+}
+.rytbutt11{
+    width:240px;
+    height: 35px;
+    border-radius: 5px;
+    border-right: 2px;
+    border-width: 1px;
+    border-style: double;
+    border-bottom-width: 1px;
+    border-color: linear-gradient(white,#D3D8E8);
+    font-size: 20px;
+    margin-right: 20px;
+    
+    
+}
+.rytbutt12{
+    width:240px;
+    height: 35px;
+    border-radius: 5px;
+    border-right: 2px;
+    border-width: 1px;
+    border-style: double;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color: linear-gradient(white,#D3D8E8);
+    font-size: 20px;
+    
+    
+}
+.rytbutt34{
+    width:510px;
+    height: 35px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-color: linear-gradient(white,#D3D8E8);
+    font-size: 20px;
+    
+    
+}
+#bd{
+    font-size: larger;
+    color: gray;
+    font-weight: bold;
+}
+#sex{
+    font-size: larger;
+    color: gray;
+    font-weight: bold;
+}
+.date {
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+}
+.date2 {
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+.xtyp{
+    font-weight: bolder;
+    font-size: larger;
+}
+#sign{
+    background: linear-gradient(green,#31a139);
+    width: 180px;
+    height: 40px;
+    border-radius: 7px;
+    color:whitesmoke;
+    font-size: large;
+    font-weight: bolder;
+    border-style: solid;
+    margin-top: -500px;
+}
+#lstp{
+    padding-left: 80px;
+    font-size: larger;
+    font-weight: lighter;
+    color: rgb(33, 67, 99);
+}
