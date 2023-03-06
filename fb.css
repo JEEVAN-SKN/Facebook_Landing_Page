@@ -246,4 +246,7 @@ body{
     .tet{
         width:130px
     }
+     .subbut{
+        overflow:hidden;
+    }
 }
